@@ -13,3 +13,40 @@
 📫 Reach me at: raj20051104@gmail.com
 
 
+## 🛠️ Tech Stack
+
+### Backend & DevOps
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
+![DRF](https://img.shields.io/badge/DRF-000000?style=for-the-badge&logo=django)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+
+---
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)
+
+---
+
+### Data Science & AI/ML
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn)
+
+---
+
+### Other Languages & Tools
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
