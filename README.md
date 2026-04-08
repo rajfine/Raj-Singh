@@ -1,4 +1,11 @@
-## Hi,I'm raj 🙂
+## Hi 👋, I'm raj 😃
+
+## 🚀 Full Stack Developer (MERN)
+
+Focused on building scalable web apps using modern JavaScript technologies.  
+Currently exploring advanced backend systems and AI integrations.
+
+---
 
 ## 👨‍💻 About Me
 
@@ -50,3 +57,78 @@
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+
+---
+
+## 📊 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,threejs,js,html,css,git,linux&theme=dark" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## :zap: Tech Stack
+
+### :desktop: Languages
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
+</p>
+
+---
+
+### :globe_with_meridians: Frontend
+<p align="left">
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></a>
+<a href="https://vitejs.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40"/></a>
+</p>
+
+---
+
+### :wrench: Backend
+<p align="left">
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
+<a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/></a>
+</p>
+
+---
+
+### :file_cabinet: Database
+<p align="left">
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
+</p>
+
+---
+
+### :tools: Tools
+<p align="left">
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
+<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/></a>
+<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/></a>
+</p>
+
+## ⚡ Fun Fact
+> I build things instead of just watching tutorials 🚀
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/
+- LinkedIn: www.linkedin.com/in/raj-singh-a8a3a333a
+- Twitter (X): https://x.com/rajSingh
